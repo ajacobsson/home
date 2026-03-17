@@ -21,5 +21,5 @@ Building open-source geospatial software — helping Germany digitize its city p
 - Debugged and resolved crash scenarios in geospatial processing pipelines
 
 **Me**
-
+\n
 Music, philosphy and still dreaming about one day going to space.
