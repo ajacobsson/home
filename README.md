@@ -10,7 +10,9 @@ Building open-source geospatial software — helping Germany digitize its city p
 - PyQt5 → PyQt6 migrations
 - Backend integrations (APIs, databases)
 
+
 🔗 Most of my work is on [OpenCode](https://gitlab.opencode.de/oc000055215021) (German public sector open-source platform).
+
 
 **Some things I've built or fixed:**
 - Designed and implemented a split tool ensuring topological correctness and data integrity in a production QGIS plugin
@@ -19,4 +21,5 @@ Building open-source geospatial software — helping Germany digitize its city p
 - Debugged and resolved crash scenarios in geospatial processing pipelines
 
 **Me**
+
 Music, philosphy and still dreaming about one day going to space.
