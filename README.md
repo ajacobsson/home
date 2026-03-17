@@ -20,6 +20,5 @@ Building open-source geospatial software — helping Germany digitize its city p
 - Sole analyst and implementer of a PyQt5 → PyQt6 migration in a complex, production QGIS application
 - Debugged and resolved crash scenarios in geospatial processing pipelines
 
-**Me**
-\n
+**Me**  
 Music, philosphy and still dreaming about one day going to space.
